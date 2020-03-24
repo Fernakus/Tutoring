@@ -20,7 +20,6 @@ R2 = Pin(0,Pin.IN,Pin.PULL_UP)
 R3 = Pin(4,Pin.IN,Pin.PULL_UP)
 R4 = Pin(5,Pin.IN,Pin.PULL_UP)
 
-
 # Other Variables   
 keys = ['1','4','7','*','2','5','8','0', '3','6','9','#']
 #############################################################
